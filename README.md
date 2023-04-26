@@ -211,7 +211,7 @@
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
-[27th Oct., 2022] [arXiv, 2022] \
+[27th Oct., 2022] [ISBI, 2023] \
 [[Paper](https://arxiv.org/abs/2210.17408)] 
 
 **Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation** \
